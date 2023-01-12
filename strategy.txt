@@ -1,0 +1,35 @@
+Hi, sir.
+I have already developed Binance trading bot.
+The strategy was like this.
+1) BUY:
+1-10-10 (example 14:00 - 13:50 - 13:40).
+When analyzing, Close prices are compared to Close prices, and Low prices are compared to Low prices.
+
+Explanation:
+we take prices close and low and compare to the prices 10 minutes ago and 20 minutes ago
+If the price 10 min ago increased from the price 20 min ago and if the price NOW increased from the price 10 min ago - we BUY
+
+2) SELL
+Selling strategy - crypto price in real-time:
+1. Stop loss -0.5% of the purchase price
+2. Stop loss +0.7% of the purchase price
+3. Stop loss floating -1.5% of the highest price since the last purchase. Applied when the selling price >= of stop loss of 2.
+*A SELL occurs if the price falls TO or BELOW any of the stop losses.
+
+And I recorded all the prices into csv file.
+I also recorded all the logs while trading is implemented.
+Perhaps if you hire me, you will get the result.
+I'm looking forward to your response.
+Thanks.
+
+
+--------------------------------------
+
+Dear, sir.
+Blockchain Expert here.
+I have enough experiences and have already done similar jobs.
+
+I'll do my best for you and you will get the result before Christmas.
+The price and time would be changed according to your requirements.
+I'm looking forward to your response.
+Thanks.
